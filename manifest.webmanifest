@@ -1,0 +1,18 @@
+{
+  "name": "埃及漫游 · Ancient Egypt Travel Guide",
+  "short_name": "埃及漫游",
+  "description": "一份可离线使用的埃及旅行导览：手绘风地图、24 处景点的照片与历史讲解。",
+  "lang": "zh-CN",
+  "dir": "ltr",
+  "start_url": "./index.html",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "portrait",
+  "background_color": "#F5E8C8",
+  "theme_color": "#F5E8C8",
+  "icons": [
+    { "src": "icons/icon-192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "icons/icon-512.png", "sizes": "512x512", "type": "image/png" },
+    { "src": "icons/icon-1024.png", "sizes": "1024x1024", "type": "image/png" }
+  ]
+}

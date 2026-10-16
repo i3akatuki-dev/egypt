@@ -1,0 +1,786 @@
+{
+  "a01": [
+    {
+      "file": "a01/1.webp",
+      "author": "Hesham Ebaid",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%A7%D8%A8%D9%88_%D8%A7%D9%84%D9%87%D9%88%D9%84_%D9%88%D9%87%D8%B1%D9%85_%D9%85%D9%86%D9%82%D8%B1%D8%B9.jpg",
+      "title": "ابو الهول وهرم منقرع.jpg"
+    },
+    {
+      "file": "a01/2.webp",
+      "author": "Wknight94",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGreat_Pyramid_of_Giza_2010_from_the_Great_Sphinx_3.jpg",
+      "title": "Great Pyramid of Giza 2010 from the Great Sphinx 3.jpg"
+    },
+    {
+      "file": "a01/3.webp",
+      "author": "Alchemist-hp ( talk ) ( www.pse-mendelejew.de )",
+      "license": "FAL",
+      "licenseUrl": "http://artlibre.org/licence/lal/en",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGreat_Sphinx_of_Giza_9049.jpg",
+      "title": "Great Sphinx of Giza 9049.jpg"
+    },
+    {
+      "file": "a01/4.webp",
+      "author": "Ismaiel",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASphinx-.jpg",
+      "title": "Sphinx-.jpg"
+    },
+    {
+      "file": "a01/5.webp",
+      "author": "Kattamia",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGoing_to_the_past.jpg",
+      "title": "Going to the past.jpg"
+    }
+  ],
+  "a02": [
+    {
+      "file": "a02/1.webp",
+      "author": "Olaf Tausch",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASakkara_24.jpg",
+      "title": "Sakkara 24.jpg"
+    },
+    {
+      "file": "a02/2.webp",
+      "author": "Wknight94 talk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASouth_Saqqara_pyramids_2010.jpg",
+      "title": "South Saqqara pyramids 2010.jpg"
+    },
+    {
+      "file": "a02/3.webp",
+      "author": "Olaf Tausch",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASakkara_20.jpg",
+      "title": "Sakkara 20.jpg"
+    },
+    {
+      "file": "a02/4.webp",
+      "author": "Wknight94 talk",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASouth_Saqqara_pyramids_2010_2.jpg",
+      "title": "South Saqqara pyramids 2010 2.jpg"
+    }
+  ],
+  "a03": [
+    {
+      "file": "a03/1.webp",
+      "author": "Tarekheikal",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%A7%D9%84%D9%85%D8%AA%D8%AD%D9%81_%D8%A7%D9%84%D9%85%D8%B5%D8%B1%D9%8A_%D9%85%D9%86_%D8%A7%D9%84%D8%AF%D8%A7%D8%AE%D9%84_%D8%AA%D8%AD%D9%81%D9%87_%D9%85%D8%B9%D9%85%D8%A7%D8%B1%D9%8A%D9%87.jpg",
+      "title": "المتحف المصري من الداخل تحفه معماريه.jpg"
+    },
+    {
+      "file": "a03/2.webp",
+      "author": "Шухрат Саъдиев",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMuseum_of_Egyptian_Antiquities_%28Cairo%29_2.jpg",
+      "title": "Museum of Egyptian Antiquities (Cairo) 2.jpg"
+    },
+    {
+      "file": "a03/3.webp",
+      "author": "لا روسا",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEgyptian_Museum000_%2820%29.jpg",
+      "title": "Egyptian Museum000 (20).jpg"
+    },
+    {
+      "file": "a03/4.webp",
+      "author": "Mark Fischer",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AKing_Tut_Organ_Coffins.jpg",
+      "title": "King Tut Organ Coffins.jpg"
+    }
+  ],
+  "a04": [
+    {
+      "file": "a04/1.webp",
+      "author": "Slyronit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGrand_Egyptian_Museum_Grand_Hall_%28Atrium%29.jpg",
+      "title": "Grand Egyptian Museum Grand Hall (Atrium).jpg"
+    },
+    {
+      "file": "a04/2.webp",
+      "author": "Slyronit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGrand_Egyptian_Museum_Facade.jpg",
+      "title": "Grand Egyptian Museum Facade.jpg"
+    },
+    {
+      "file": "a04/3.webp",
+      "author": "Habib M ' henni",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGEM%2C_December_22nd%2C_2025%2C_by_Dyolf77%2C_ZVE07699.jpg",
+      "title": "GEM, December 22nd, 2025, by Dyolf77, ZVE07699.jpg"
+    },
+    {
+      "file": "a04/4.webp",
+      "author": "Habib M ' henni",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGEM%2C_December_22nd%2C_2025%2C_by_Dyolf77%2C_ZVE07707.jpg",
+      "title": "GEM, December 22nd, 2025, by Dyolf77, ZVE07707.jpg"
+    }
+  ],
+  "a05": [
+    {
+      "file": "a05/1.webp",
+      "author": "Magoopic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D9%83%D9%86%D9%88%D8%B2_%D8%A7%D9%84%D9%84%D9%8A%D9%84.jpg",
+      "title": "كنوز الليل.jpg"
+    },
+    {
+      "file": "a05/2.webp",
+      "author": "Yasser.mahmoud",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%AE%D9%80%D8%A7%D9%86_%D8%A7%D9%84%D8%AE%D9%84%D9%8A%D9%84%D9%8A_07.jpg",
+      "title": "خـان الخليلي 07.jpg"
+    },
+    {
+      "file": "a05/3.webp",
+      "author": "Sara elsharkawy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%AD%D9%88%D8%A7%D9%86%D9%8A%D8%AA_%D8%A7%D9%84%D8%AD%D8%B3%D9%8A%D9%86.JPG",
+      "title": "حوانيت الحسين.JPG"
+    },
+    {
+      "file": "a05/4.webp",
+      "author": "Magoopic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AShop_at_khan_el_khalili.jpg",
+      "title": "Shop at khan el khalili.jpg"
+    }
+  ],
+  "a06": [
+    {
+      "file": "a06/1.webp",
+      "author": "Magoopic",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D9%82%D9%84%D8%B9%D9%87_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D9%88%D8%AC%D8%A7%D9%85%D8%B9_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%89.jpg",
+      "title": "قلعه صلاح الدين وجامع محمد على.jpg"
+    },
+    {
+      "file": "a06/2.webp",
+      "author": "Marwa Mostafa PH",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%AC%D8%A7%D9%86%D8%A8_%D9%85%D9%86_%D9%85%D8%B3%D8%AC%D8%AF_%D9%85%D8%AD%D9%85%D8%AF_%D8%B9%D9%84%D9%8A_%D8%A8%D8%A7%D8%B4%D8%A7_02.jpg",
+      "title": "جانب من مسجد محمد علي باشا 02.jpg"
+    },
+    {
+      "file": "a06/3.webp",
+      "author": "Jean nagah",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D9%82%D9%84%D8%B9%D8%A9_%D8%B5%D9%84%D8%A7%D8%AD_%D8%A7%D9%84%D8%AF%D9%8A%D9%86_%D8%AA%D8%AA%D8%A3%D9%84%D9%82_%D9%81%D9%8A_%D8%B3%D9%85%D8%A7%D8%A1_%D8%A7%D9%84%D9%82%D8%A7%D9%87%D8%B1%D8%A9.jpg",
+      "title": "قلعة صلاح الدين تتألق في سماء القاهرة.jpg"
+    },
+    {
+      "file": "a06/4.webp",
+      "author": "Sherif Alyamany",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%A8%D8%A7%D8%A8_%D8%A7%D9%84%D8%B9%D8%B2%D8%A8_05.jpg",
+      "title": "باب العزب 05.jpg"
+    }
+  ],
+  "a07": [
+    {
+      "file": "a07/1.webp",
+      "author": "Djehouty",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Karnak-Tempel_2016-03-21_Gro%C3%9Fe_S%C3%A4ulenhalle_06.jpg",
+      "title": "Luxor Karnak-Tempel 2016-03-21 Große Säulenhalle 06.jpg"
+    },
+    {
+      "file": "a07/2.webp",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATemplo_de_Karnak%2C_Luxor%2C_Egipto%2C_2022-04-03%2C_DD_156.jpg",
+      "title": "Templo de Karnak, Luxor, Egipto, 2022-04-03, DD 156.jpg"
+    },
+    {
+      "file": "a07/3.webp",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A134_S%C3%A4ulen_in_16_Reihen_geordnet_trugen_das_Dach_der_Halle._12.jpg",
+      "title": "134 Säulen in 16 Reihen geordnet trugen das Dach der Halle. 12.jpg"
+    },
+    {
+      "file": "a07/4.webp",
+      "author": "Djehouty",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Karnak-Tempel_2016-03-21_Gro%C3%9Fe_S%C3%A4ulenhalle_03.jpg",
+      "title": "Luxor Karnak-Tempel 2016-03-21 Große Säulenhalle 03.jpg"
+    },
+    {
+      "file": "a07/5.webp",
+      "author": "Pavel Špindler",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3APosv%C3%A1tn%C3%A9_jez%C3%ADrko_v_Karnaku_-_panoramio.jpg",
+      "title": "Posvátné jezírko v Karnaku - panoramio.jpg"
+    }
+  ],
+  "a08": [
+    {
+      "file": "a08/1.webp",
+      "author": "ولاء",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Temple_-_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1_%2810%29.jpg",
+      "title": "Luxor Temple - معبد الأقصر (10).jpg"
+    },
+    {
+      "file": "a08/2.webp",
+      "author": "ولاء",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Temple_-_%D9%85%D8%B9%D8%A8%D8%AF_%D8%A7%D9%84%D8%A3%D9%82%D8%B5%D8%B1_%281%29.jpg",
+      "title": "Luxor Temple - معبد الأقصر (1).jpg"
+    },
+    {
+      "file": "a08/3.webp",
+      "author": "Jorge Láscar from Melbourne, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Temple_%2814259581502%29.jpg",
+      "title": "Luxor Temple (14259581502).jpg"
+    },
+    {
+      "file": "a08/4.webp",
+      "author": "Jorge Láscar from Melbourne, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Temple_%2814075128490%29.jpg",
+      "title": "Luxor Temple (14075128490).jpg"
+    }
+  ],
+  "a09": [
+    {
+      "file": "a09/1.webp",
+      "author": "Luigi Rosa",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AValley_of_the_Kings_Valle_dei_Re_%2853612386310%29.jpg",
+      "title": "Valley of the Kings Valle dei Re (53612386310).jpg"
+    },
+    {
+      "file": "a09/2.webp",
+      "author": "Leon petrosyan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_tomb_of_SetiI_I_11.jpg",
+      "title": "The tomb of SetiI I 11.jpg"
+    },
+    {
+      "file": "a09/3.webp",
+      "author": "Luigi Rosa",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AValley_of_the_Kings_Valle_dei_Re_%2853611064222%29.jpg",
+      "title": "Valley of the Kings Valle dei Re (53611064222).jpg"
+    }
+  ],
+  "a10": [
+    {
+      "file": "a10/1.webp",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATombe_Nefertari_Vall%C3%A9e_Reines_-_Louxor_%28EG%29_-_2025-12-11_-_1.jpg",
+      "title": "Tombe Nefertari Vallée Reines - Louxor (EG) - 2025-12-11 - 1.jpg"
+    },
+    {
+      "file": "a10/2.webp",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AVall%C3%A9e_Reines_-_Louxor_%28EG%29_-_2025-12-11_-_8.jpg",
+      "title": "Vallée Reines - Louxor (EG) - 2025-12-11 - 8.jpg"
+    },
+    {
+      "file": "a10/3.webp",
+      "author": "Onceinawhile",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATomb_of_Nefertari_2022_75.jpg",
+      "title": "Tomb of Nefertari 2022 75.jpg"
+    }
+  ],
+  "a11": [
+    {
+      "file": "a11/1.webp",
+      "author": "Viault",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGrand_TEMPLE_d_abou_SIMBEL_432.jpg",
+      "title": "Grand TEMPLE d abou SIMBEL 432.jpg"
+    },
+    {
+      "file": "a11/2.webp",
+      "author": "未署名",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEGWUG_trip_FEB_2025_%28207%29.jpg",
+      "title": "EGWUG trip FEB 2025 (207).jpg"
+    },
+    {
+      "file": "a11/3.webp",
+      "author": "Ercan.G",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATempel_zwischen_dem_Tal_der_K%C3%B6nige_und_das_Tal_der_K%C3%B6niginnen%2C_Luxor%2C_%C3%84gypten_-_panoramio.jpg",
+      "title": "Tempel zwischen dem Tal der Könige und das Tal der Königinnen, Luxor, Ägypten - panoramio.jpg"
+    },
+    {
+      "file": "a11/4.webp",
+      "author": "Louis Ausquichoury",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AIl_va_falloir_construire_une_%C3%A9thique_touristique.jpg",
+      "title": "Il va falloir construire une éthique touristique.jpg"
+    }
+  ],
+  "a12": [
+    {
+      "file": "a12/1.webp",
+      "author": "ولاء",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AColossi_of_Memnon%2C_Egypt_43.jpg",
+      "title": "Colossi of Memnon, Egypt 43.jpg"
+    },
+    {
+      "file": "a12/2.webp",
+      "author": "ولاء",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AColossi_of_Memnon%2C_Egypt_30.jpg",
+      "title": "Colossi of Memnon, Egypt 30.jpg"
+    },
+    {
+      "file": "a12/3.webp",
+      "author": "ولاء",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AColossi_of_Memnon%2C_Egypt_29.jpg",
+      "title": "Colossi of Memnon, Egypt 29.jpg"
+    }
+  ],
+  "a13": [
+    {
+      "file": "a13/1.webp",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATemple_Isis_Phil%C3%A6_-_Assouan_%28EG%29_-_2025-12-06_-_194.jpg",
+      "title": "Temple Isis Philæ - Assouan (EG) - 2025-12-06 - 194.jpg"
+    },
+    {
+      "file": "a13/2.webp",
+      "author": "Olaf Tausch",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3APhilae_Trajan%27s_Kiosk_04.jpg",
+      "title": "Philae Trajan's Kiosk 04.jpg"
+    },
+    {
+      "file": "a13/3.webp",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATemple_Isis_Phil%C3%A6_-_Assouan_%28EG%29_-_2025-12-06_-_193.jpg",
+      "title": "Temple Isis Philæ - Assouan (EG) - 2025-12-06 - 193.jpg"
+    },
+    {
+      "file": "a13/4.webp",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AKiosque_Trajan_%C3%8Ele_Aguilkia_-_Assouan_%28EG%29_-_2025-12-06_-_8.jpg",
+      "title": "Kiosque Trajan Île Aguilkia - Assouan (EG) - 2025-12-06 - 8.jpg"
+    }
+  ],
+  "a14": [
+    {
+      "file": "a14/1.webp",
+      "author": "Diego Delso",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ATemplo_de_Rams%C3%A9s_II%2C_Abu_Simbel%2C_Egipto%2C_2022-04-02%2C_DD_155.jpg",
+      "title": "Templo de Ramsés II, Abu Simbel, Egipto, 2022-04-02, DD 155.jpg"
+    },
+    {
+      "file": "a14/2.webp",
+      "author": "Olaf Tausch",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AKleiner_Tempel_%28Abu_Simbel%29_17.jpg",
+      "title": "Kleiner Tempel (Abu Simbel) 17.jpg"
+    },
+    {
+      "file": "a14/3.webp",
+      "author": "Holger Uwe Schmitt",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A1964_bis_1968_wurde_der_kleine_Tempel_in_Bl%C3%B6cke_zerlegt_und_200_Meter_landeinw%C3%A4rts_wieder_aufgebaut._05.jpg",
+      "title": "1964 bis 1968 wurde der kleine Tempel in Blöcke zerlegt und 200 Meter landeinwärts wieder aufgebaut. 05.jpg"
+    },
+    {
+      "file": "a14/4.webp",
+      "author": "Olaf Tausch",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGro%C3%9Fer_Tempel_%28Abu_Simbel%29_28.jpg",
+      "title": "Großer Tempel (Abu Simbel) 28.jpg"
+    },
+    {
+      "file": "a14/5.webp",
+      "author": "Olaf Tausch",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AKleiner_Tempel_%28Abu_Simbel%29_16.jpg",
+      "title": "Kleiner Tempel (Abu Simbel) 16.jpg"
+    }
+  ],
+  "a15": [
+    {
+      "file": "a15/1.webp",
+      "author": "Belmahdy",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANubian_houses_in_the_bank_of_River_Nile_Aswan_%2C_Egypt.JPG",
+      "title": "Nubian houses in the bank of River Nile Aswan , Egypt.JPG"
+    },
+    {
+      "file": "a15/2.webp",
+      "author": "Mgalal20",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANubian_house.jpg",
+      "title": "Nubian house.jpg"
+    },
+    {
+      "file": "a15/3.webp",
+      "author": "Warren LeMay from Chicago, IL, United States",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026608526%29.jpg",
+      "title": "Nubian House, Nagaa Suhayl Gharb, AG, EGY (48026608526).jpg"
+    },
+    {
+      "file": "a15/4.webp",
+      "author": "Warren LeMay from Chicago, IL, United States",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File%3ANubian_House%2C_Nagaa_Suhayl_Gharb%2C_AG%2C_EGY_%2848026709012%29.jpg",
+      "title": "Nubian House, Nagaa Suhayl Gharb, AG, EGY (48026709012).jpg"
+    }
+  ],
+  "a16": [
+    {
+      "file": "a16/1.webp",
+      "author": "Ahmed Yousry Mahfouz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AUnfinished_obelisk.jpg",
+      "title": "Unfinished obelisk.jpg"
+    },
+    {
+      "file": "a16/2.webp",
+      "author": "Jorge Láscar from Melbourne, Australia",
+      "license": "CC BY 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_largest_know_ancient_obelisk_-_Unfinished_Obelisk_would_have_been_32m._high_%2814284036359%29.jpg",
+      "title": "The largest know ancient obelisk - Unfinished Obelisk would have been 32m. high (14284036359).jpg"
+    },
+    {
+      "file": "a16/3.webp",
+      "author": "Chabe01",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASite_Ob%C3%A9lisque_Inachev%C3%A9_-_Assouan_%28EG%29_-_2025-12-06_-_73.jpg",
+      "title": "Site Obélisque Inachevé - Assouan (EG) - 2025-12-06 - 73.jpg"
+    }
+  ],
+  "a17": [
+    {
+      "file": "a17/1.webp",
+      "author": "Marc Ryckaert",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ALuxor_Nile_R09.jpg",
+      "title": "Luxor Nile R09.jpg"
+    },
+    {
+      "file": "a17/2.webp",
+      "author": "Omarelkady2089",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AEgypt_is_the_gift_of_the_nile.jpg",
+      "title": "Egypt is the gift of the nile.jpg"
+    },
+    {
+      "file": "a17/3.webp",
+      "author": "Kora27",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFelukenboot_mit_der_Seteesegel_auf_dem_Nil..Eg2010_1321WI.jpg",
+      "title": "Felukenboot mit der Seteesegel auf dem Nil..Eg2010 1321WI.jpg"
+    },
+    {
+      "file": "a17/4.webp",
+      "author": "David Broad",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AFelucca_at_Kom_Ombo_on_the_River_Nile_-_panoramio.jpg",
+      "title": "Felucca at Kom Ombo on the River Nile - panoramio.jpg"
+    }
+  ],
+  "a18": [
+    {
+      "file": "a18/1.webp",
+      "author": "Ahmed yousri elmamlouk",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%AC%D8%AF%D8%B1%D8%A7%D9%86_%D9%85%D9%83%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%A3%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9_%D8%A7%D9%84%D8%AC%D8%AF%D9%8A%D8%AF%D8%A9.JPG",
+      "title": "جدران مكتبة الأسكندرية الجديدة.JPG"
+    },
+    {
+      "file": "a18/2.webp",
+      "author": "Afek91",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D9%85%D9%83%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9_6.jpg",
+      "title": "مكتبة الاسكندرية 6.jpg"
+    },
+    {
+      "file": "a18/3.webp",
+      "author": "Afek91",
+      "license": "CC0",
+      "licenseUrl": "http://creativecommons.org/publicdomain/zero/1.0/deed.en",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D9%85%D9%83%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9_7.jpg",
+      "title": "مكتبة الاسكندرية 7.jpg"
+    },
+    {
+      "file": "a18/4.webp",
+      "author": "Yaradarwich",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D9%82%D8%A7%D8%B9%D8%A9_%D9%85%D9%83%D8%AA%D8%A8%D8%A9_%D8%A7%D9%84%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9.jpg",
+      "title": "قاعة مكتبة الاسكندرية.jpg"
+    }
+  ],
+  "a19": [
+    {
+      "file": "a19/1.webp",
+      "author": "Amel Esmail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_great_fortress_of_Qaitbey.jpg",
+      "title": "The great fortress of Qaitbey.jpg"
+    },
+    {
+      "file": "a19/2.webp",
+      "author": "Amel Esmail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_citadel_of_qaitbay_with_fishing_boats.jpg",
+      "title": "The citadel of qaitbay with fishing boats.jpg"
+    },
+    {
+      "file": "a19/3.webp",
+      "author": "Amel Esmail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_citadel_of_Qaitbay_entrance.jpg",
+      "title": "The citadel of Qaitbay entrance.jpg"
+    },
+    {
+      "file": "a19/4.webp",
+      "author": "Amel Esmail",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AThe_Great_citadel_of_qaitbay_from_Mediterranean_Sea.jpg",
+      "title": "The Great citadel of qaitbay from Mediterranean Sea.jpg"
+    }
+  ],
+  "a20": [
+    {
+      "file": "a20/1.webp",
+      "author": "Ali baghdady792",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%B9%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%B1%D9%8A_%D8%A8%D8%A7%D9%84%D8%A7%D8%B3%D9%83%D9%86%D8%AF%D8%B1%D9%8A%D8%A9.jpg",
+      "title": "عمود السواري بالاسكندرية.jpg"
+    },
+    {
+      "file": "a20/2.webp",
+      "author": "Fawzi.Ali.Ahmed",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%D8%B9%D9%85%D9%88%D8%AF_%D8%A7%D9%84%D8%B3%D9%88%D8%A7%D8%B1%D9%8A_2016_05.jpg",
+      "title": "عمود السواري 2016 05.jpg"
+    },
+    {
+      "file": "a20/3.webp",
+      "author": "Ahmed Yousry Mahfouz",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ASphinx_in_Pompey%27s_Pillar_area.jpg",
+      "title": "Sphinx in Pompey's Pillar area.jpg"
+    }
+  ],
+  "a21": [
+    {
+      "file": "a21/1.webp",
+      "author": "Slyronit",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMurals_in_the_Catacombs_of_Kom_El_Shoqafa.jpg",
+      "title": "Murals in the Catacombs of Kom El Shoqafa.jpg"
+    },
+    {
+      "file": "a21/2.webp",
+      "author": "Leon petrosyan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACatacombs_of_Kom_al_Shugafa_4.jpg",
+      "title": "Catacombs of Kom al Shugafa 4.jpg"
+    },
+    {
+      "file": "a21/3.webp",
+      "author": "Leon petrosyan",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ACatacombs_Kom_al_Sofaga_8.jpg",
+      "title": "Catacombs Kom al Sofaga 8.jpg"
+    }
+  ],
+  "a22": [
+    {
+      "file": "a22/1.webp",
+      "author": "74papa",
+      "license": "CC BY 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMorey_Eel_in_Red_Sea%2C_Naama_Bay%2C_Sharm-el-Sheikh.jpg",
+      "title": "Morey Eel in Red Sea, Naama Bay, Sharm-el-Sheikh.jpg"
+    },
+    {
+      "file": "a22/2.webp",
+      "author": "Inetta",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3A%C5%81awica_ryb_Hurgada_1.JPG",
+      "title": "Ławica ryb Hurgada 1.JPG"
+    },
+    {
+      "file": "a22/3.webp",
+      "author": "Hannes Grobe/AWI",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARed_sea-reef_4073.jpg",
+      "title": "Red sea-reef 4073.jpg"
+    },
+    {
+      "file": "a22/4.webp",
+      "author": "Kora27",
+      "license": "CC BY-SA 4.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/4.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AAcanthurus_sohal_-_Arabischer_Doktorfisch-_%D0%90%D1%80%D0%B0%D0%B2%D0%B8%D0%B9%D1%81%D0%BA%D0%B0%D1%8F_%D1%80%D1%8B%D0%B1%D0%B0-%D1%85%D0%B8%D1%80%D1%83%D1%80%D0%B3_DSCF4784%D0%9E%D0%92.jpg",
+      "title": "Acanthurus sohal - Arabischer Doktorfisch- Аравийская рыба-хирург DSCF4784ОВ.jpg"
+    }
+  ],
+  "a23": [
+    {
+      "file": "a23/1.webp",
+      "author": "Andrey Korchagin from St. Petersburg, Russia",
+      "license": "CC BY-SA 2.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/2.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AParadise_%28Giftun%29_Island._Red_Sea._%288645636940%29.jpg",
+      "title": "Paradise (Giftun) Island. Red Sea. (8645636940).jpg"
+    },
+    {
+      "file": "a23/2.webp",
+      "author": "E v Schoonhoven",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGiftun_Island_Egypte_-_panoramio_%286%29.jpg",
+      "title": "Giftun Island Egypte - panoramio (6).jpg"
+    },
+    {
+      "file": "a23/3.webp",
+      "author": "E v Schoonhoven",
+      "license": "CC BY 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AGiftun_Island_Egypte_-_panoramio.jpg",
+      "title": "Giftun Island Egypte - panoramio.jpg"
+    }
+  ],
+  "a24": [
+    {
+      "file": "a24/1.webp",
+      "author": "patano",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3ARas_Mohammed_-_barriera_corallina_-_panoramio.jpg",
+      "title": "Ras Mohammed - barriera corallina - panoramio.jpg"
+    },
+    {
+      "file": "a24/2.webp",
+      "author": "patano",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AUna_grotta_a_Ras_Mohammed_-_panoramio.jpg",
+      "title": "Una grotta a Ras Mohammed - panoramio.jpg"
+    },
+    {
+      "file": "a24/3.webp",
+      "author": "patano",
+      "license": "CC BY-SA 3.0",
+      "licenseUrl": "https://creativecommons.org/licenses/by-sa/3.0",
+      "page": "https://commons.wikimedia.org/wiki/File%3AUn_fiordo_a_Ras_Mohammed_-_panoramio.jpg",
+      "title": "Un fiordo a Ras Mohammed - panoramio.jpg"
+    },
+    {
+      "file": "a24/4.webp",
+      "author": "Wolljuergen",
+      "license": "Public domain",
+      "licenseUrl": "",
+      "page": "https://commons.wikimedia.org/wiki/File%3AMagrove0017.jpg",
+      "title": "Magrove0017.jpg"
+    }
+  ]
+}
